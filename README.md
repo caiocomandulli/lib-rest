@@ -12,11 +12,11 @@ PUT for updating data.
 
 DELETE for deleting data.
 
-All requests use JSON as its body encoding. Always respecting that at the root
+All server responses use JSON as its body encoding. Always respecting that at the root
 you have a code property, with the status code of the request, a message, describing the status code
 and a content with the true content body encoded in json.
 
-An example of a content body of a request.
+An example of a content body of a response.
 
 ```json
 {"code":200,
