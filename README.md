@@ -218,7 +218,7 @@ MIT License. See the file LICENSE.md with the full license text.
 
 Copyright (c) 2016 Caio Comandulli
 
-### Third party libraries
+## Third party libraries
 
 This library uses Volley by Android.
 
