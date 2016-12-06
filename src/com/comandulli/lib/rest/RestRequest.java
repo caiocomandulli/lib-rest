@@ -1,7 +1,7 @@
 package com.comandulli.lib.rest;
 
 import com.android.volley.Request.Method;
-import com.comandulli.rest.exception.NoInternetConnectionException;
+import com.comandulli.lib.rest.exception.NoInternetConnectionException;
 
 import org.json.JSONObject;
 
